@@ -1,5 +1,4 @@
-# EDX-Python
-# MITx: 6.00.1x Introduction to Computer Science and Programming Using Python
+
 s='jhjbdhdhfsiiuegayvcdsmnbvsa'
 numVowels=0
 for char in s:
